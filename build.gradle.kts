@@ -55,3 +55,7 @@ tasks.jacocoTestCoverageVerification {
         }
     }
 }
+
+tasks.wrapper {
+    gradleVersion = "7.4"
+}

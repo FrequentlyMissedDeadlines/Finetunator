@@ -1,1 +1,2 @@
 # Finetunator
+[![Java CI with Gradle](https://github.com/FrequentlyMissedDeadlines/Finetunator/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/FrequentlyMissedDeadlines/Finetunator/actions/workflows/gradle.yml)
