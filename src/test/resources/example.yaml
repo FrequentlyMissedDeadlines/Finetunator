@@ -1,0 +1,5 @@
+numberOfGames: 100
+players:
+  - {command: java Player, id: java1}
+  - {command: python player.py, id: python1}
+seeds: []
